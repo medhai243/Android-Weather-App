@@ -49,6 +49,15 @@
 - **Dynamic UI Updates**: Updates widgets in real-time based on user input  
 
 ---
+## Screenshots
+
+### Opening Screen
+![Splash Screen](screenshots/opening.png)
+
+### Weather Details
+![Main Screen](screenshots/details.png)
+
+---
 
 ## **Project Status**
 - Fully functional weather app.
